@@ -1,1 +1,1 @@
-# ML_PROJECTS
+# machine_learning_tutorial
