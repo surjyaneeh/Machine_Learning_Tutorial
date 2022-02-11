@@ -1,4 +1,4 @@
-# machine_learning_tutorial
+# Machine_Learning_Tutorial
 Machine Learning is the process of making computers learn from past data and predict new output values, without being explicitly programmed to do so.
 
 
